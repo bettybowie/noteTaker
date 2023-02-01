@@ -20,7 +20,7 @@ When the user clicks on the Plus icon at the top right corner, the empty fields 
 
 ## Visual
 
-![Demo](Note Taker.gif)
+![Demo](./Note%20Taker.gif)
 
 ## Links
 
